@@ -14,6 +14,7 @@
   "dependencies": {
     "@remotion/bundler": "^4.0.290",
     "@remotion/renderer": "^4.0.290",
+    "assemblyai": "^4.12.2",
     "cors": "^2.8.5",
     "express": "^5.1.0"
   }
